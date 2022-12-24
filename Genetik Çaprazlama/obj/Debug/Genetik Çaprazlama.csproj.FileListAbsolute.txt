@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Genetik Çaprazlama\Genetik Çaprazlama\bin\Debug\Genetik Çaprazlama.exe.config
+C:\Users\hp\source\repos\Genetik Çaprazlama\Genetik Çaprazlama\bin\Debug\Genetik Çaprazlama.exe
+C:\Users\hp\source\repos\Genetik Çaprazlama\Genetik Çaprazlama\bin\Debug\Genetik Çaprazlama.pdb
+C:\Users\hp\source\repos\Genetik Çaprazlama\Genetik Çaprazlama\obj\Debug\Genetik Çaprazlama.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Genetik Çaprazlama\Genetik Çaprazlama\obj\Debug\Genetik Çaprazlama.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Genetik Çaprazlama\Genetik Çaprazlama\obj\Debug\Genetik Çaprazlama.exe
+C:\Users\hp\source\repos\Genetik Çaprazlama\Genetik Çaprazlama\obj\Debug\Genetik Çaprazlama.pdb
